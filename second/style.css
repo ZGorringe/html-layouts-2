@@ -1,0 +1,61 @@
+
+
+.container {
+	background: #b7b2b2;
+	margin: 20px;
+	height: 600px;
+}
+
+.text {
+	text-align: center;
+	font-size: 300px;
+	line-height: 300px;
+	margin: 60px;
+}
+
+.button {
+	margin: 20px;
+	color: white;
+	height: 100px;
+	width: 300px;
+	text-align: center;
+	font-size: 80px;
+	font-family: arial;
+}
+
+.red {
+	background: red;
+	float: left;
+}
+
+.blue {
+	background: blue;
+	float: right;
+}
+
+img {
+	margin: 50px 25%;
+	width: 500px;
+	height: 350px;
+}
+
+.text2 {
+	text-align: left;
+	font-size: 25px;
+	margin: 20px 10%;
+
+}
+
+footer {
+	background: black;
+	width: 100%;
+	height: 100px;
+}
+
+p {
+	color: white;
+	font-size: 3em;
+	float: right;
+	line-height: 15px;
+	margin-right: 10%;
+}
